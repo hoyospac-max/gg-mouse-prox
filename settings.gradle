@@ -1,0 +1,2 @@
+rootProject.name = "gg-mouse-prox"
+include ':app'
